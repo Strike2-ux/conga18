@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/conga18/static/css/main.507a3381.css",
+    "main.js": "/conga18/static/js/main.500ad071.js",
+    "index.html": "/conga18/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.507a3381.css",
+    "static/js/main.500ad071.js"
+  ]
+}
